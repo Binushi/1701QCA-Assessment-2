@@ -11,13 +11,12 @@ Denim Jacket with LED's that responds to sound
 *Find about 6 related projects to the project you choose. A project might be related through  function, technology, materials, fabrication, concept, or code. Don't forget to place an image of the related project in the appropriate folder and insert the filename in the appropriate places below. Copy the markdown block of code below for each project you are showing.*
 
 ### Related project 1 ###
-*Insert name of project*
-
-*Insert URL to project*
+LED Technology at The Met Gala
+https://medium.com/@harishpersad/led-technology-at-the-met-gala-cd610c729d22
 
 ![Image](missingimage.png)
 
-This project is related to mine because *insert reasons here*.
+This project is related to mine because it is also about incoperating led lights into clothing and fashion. My aim is to cleate a more accsesible vertion and incoperate sound. 
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
