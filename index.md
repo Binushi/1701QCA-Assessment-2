@@ -42,7 +42,7 @@ Trucker Jacket Levi’s
 
 https://atap.google.com/jacquard/collaborations/levi-trucker/
 
-![Image](RP4.jpg)
+![Image](RP4.jpeg)
 
 This project is a Iconic Levi’s Trucker jacket merges style with innovative Jacquard technology. Answer calls, play music, and take photos right from your sleeve. This is similar to my project as it is a jacket with technology embedded in it.
 
