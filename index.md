@@ -89,7 +89,7 @@ This website showed me how to connect the Sound sensor to my micro bit and get i
 ## Conceptual progress ##
 
 ### Design intent ###
-The Design intent for my project is to create a jacket with a design that has a design on the back pannel that incoperates LED's the resound to sould.
+The Design intent for my project is to create a jacket that has a design on the back panel that incorporates LED's that resound to sound.
 
 ### Design concept 1 ###
 My first design concept is a soundboard. It would allow to people to record sound and then play and loop them. The soundboard would have laptop connectivity allowing you to save the beat you have made. The soundboard would have a strip going down the centre and would come with a series to sticks with different coatings. Some have a thinner coating producing a different sound then one with a thick coting.
@@ -99,7 +99,7 @@ My first design concept is a soundboard. It would allow to people to record soun
 My second design concept is a hat that moves to ward sound. There would be little spikes around the brim of the Hat that move toward where the sound in coming from. There would be a two sensors one on each side of the hat.
 
 ### Final design concept ###
-*This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
+My final design concept is to create a jacket that has a design on the back panel that incorporates LED's that resound to sound. On the Back panel of the jacket there will be a painting to Tupac Shakur with LED’s sew to his chain. The LED’s will be sown onto the jacket using connective thread, the LED’s will be connected to each other and back to the micro bit. The end of the sound sensor will be exposed on the top, centre of the back panel of the jacket to pick up sound. The micro bit and all the wiring will be on the inside of the jacket. There will be a padded panel over top of the micro bit to enclosed it into the jacket and to improve the comfortability. This panel will also me removable so the micro bit can be taken out. 
 
 ### Interaction flowchart ###
 *Draw a draft flowchart of what you anticipate the interaction process in your project to be. Make sure you think about all the stages of interaction step-by-step. Also make sure that you consider actions a user might take that aren't what you intend in an ideal use case. Insert an image of it below. It might just be a photo of a hand-drawn sketch, not a carefully drawn digital diagram. It just needs to be legible.*
