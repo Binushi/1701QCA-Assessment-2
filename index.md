@@ -15,7 +15,7 @@ LED Technology at The Met Gala
 
 https://medium.com/@harishpersad/led-technology-at-the-met-gala-cd610c729d22
 
-![Image](missingimage.png)
+![Image](RP1.jpg)
 
 This is Zendaya’s MET Gala look. It is a Cinderella dress designed by Law Roach that incorporates an LED solution for fabric colour changing in a daylight red carpet setting. This project is related to mine as I am also creating clothing with led lights. Instead of responding to light levels I am creating a jacket that responds to sound.  My aim is to create a more accessible version and incorporate sound.
 
@@ -24,7 +24,7 @@ Audiolux
 
 http://audioluxdevices.webflow.io/how-it-works
 
-![Image](missingimage.png)
+![Image](RP2.jpg)
 
 This project is a device that allows users to translate sound to light! This plug-and-play stomp box analyses audio in real-time & generates music visualizations for smart LED pixels. This is similar to my project as I its LED’s that responds to sound. My aim is to incorporate something similar in a denim jacket.
 
@@ -33,7 +33,7 @@ Printer Farm Status Jacket
 
 https://www.instructables.com/id/3D-Printer-Status-Jacket/
 
-![Image](missingimage.png)
+![Image](RP3.jpg)
 
 This project is a fun way to display the status of all of your machines, to ensure the printers keep printing! This build uses a Particle Photon for its IoT capabilities, and Adafruit NeoPixels. This is similar to my project as it is wearable LED’s and that is another form of wearable tec.
 
