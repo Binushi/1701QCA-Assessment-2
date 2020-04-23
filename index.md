@@ -96,7 +96,7 @@ My first design concept is a soundboard. It would allow to people to record soun
 
 
 ### Design concept 2 ###
-*Put details here.*
+My second design concept is a hat that moves to ward sound. There would be little spikes around the brim of the Hat that move toward where the sound in coming from. There would be a two sensors one on each side of the hat.
 
 ### Final design concept ###
 *This more fully developed concept should include consideration of the interaction scheme, technical functionality, fabrication approach, materials to be used, and aesthetic.*
