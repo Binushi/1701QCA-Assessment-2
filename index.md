@@ -92,9 +92,8 @@ This website showed me how to connect the Sound sensor to my micro bit and get i
 The Design intent for my project is to create a jacket with a design that has a design on the back pannel that incoperates LED's the resound to sould.
 
 ### Design concept 1 ###
-*Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
+My first design concept is a soundboard. It would allow to people to record sound and then play and loop them. The soundboard would have laptop connectivity allowing you to save the beat you have made. The soundboard would have a strip going down the centre and would come with a series to sticks with different coatings. Some have a thinner coating producing a different sound then one with a thick coting.
 
-*Put the first two design concepts in the sections "Design concept 1" and "Design concept 2". Then put the third, with more development in the section "Final design concept".*
 
 ### Design concept 2 ###
 *Put details here.*
