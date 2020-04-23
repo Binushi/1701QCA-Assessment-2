@@ -16,7 +16,7 @@ https://medium.com/@harishpersad/led-technology-at-the-met-gala-cd610c729d22
 
 ![Image](missingimage.png)
 
-This project is related to mine because it is also about incoperating led lights into clothing and fashion. My aim is to cleate a more accsesible vertion and incoperate sound. 
+This is Zendaya’s MET Gala look. It is a Cinderella dress designed by Law Roach that incorporates an LED solution for fabric colour changing in a daylight red carpet setting. This project is related to mine as I am also creating clothing with led lights. Instead of responding to light levels I am creating a jacket that responds to sound.  My aim is to create a more accessible version and incorporate sound.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
