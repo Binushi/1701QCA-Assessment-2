@@ -38,13 +38,12 @@ https://www.instructables.com/id/3D-Printer-Status-Jacket/
 This project is a fun way to display the status of all of your machines, to ensure the printers keep printing! This build uses a Particle Photon for its IoT capabilities, and Adafruit NeoPixels. This is similar to my project as it is wearable LED’s and that is another form of wearable tec.
 
 ### Related project 4 ###
-Printer Farm Status Jacket 
+Trucker Jacket Levi’s 
 
-https://www.instructables.com/id/3D-Printer-Status-Jacket/
+https://atap.google.com/jacquard/collaborations/levi-trucker/
 
 ![Image](missingimage.png)
-
-This project is a fun way to display the status of all of your machines, to ensure the printers keep printing! This build uses a Particle Photon for its IoT capabilities, and Adafruit NeoPixels. This is similar to my project as it is wearable LED’s and that is another form of wearable tec.
+This project is a Iconic Levi’s Trucker jacket merges style with innovative Jacquard technology. Answer calls, play music, and take photos right from your sleeve. This is similar to my project as it is a jacket with technology embedded in it.
 
 ## Other research ##
 *Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
