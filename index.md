@@ -47,7 +47,40 @@ https://atap.google.com/jacquard/collaborations/levi-trucker/
 This project is a Iconic Levi’s Trucker jacket merges style with innovative Jacquard technology. Answer calls, play music, and take photos right from your sleeve. This is similar to my project as it is a jacket with technology embedded in it.
 
 ## Other research ##
-*Include here any other relevant research you have done. This might include identifying readings, tutorials, videos, technical documents, or other resources that have been helpful. For each particular source, add a comment or two about why it is relevant or what you have taken from it.*
+https://mashable.com/2016/02/11/led-clothes/
+
+This source is an article on the future of LED clothes. The article talks about different designers that are incorporating LED’s into their clothing, and briefly talks about the process of make the clothing and how to works. This gave me some ideas on how I could do my project. For example, the article says many designers use silhouettes popular in street like oversized and minimal this not only helps the aesthetic value of the project it will also help to hide the Micro Bit. The article also reviews the clothing and highlights some flaws in the design. This shows me what to avoid doing. 
+
+
+https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/fabric-display4.htm
+
+This article is similar to the previous one. This article goes more in-depth with the process of creating the clothing. This gave me inspiration on how I could do that. 
+
+
+https://www.youtube.com/watch?v=6ZjLd2ifxhY
+https://www.youtube.com/watch?v=tPxFe_rETHA
+https://www.youtube.com/watch?v=guZJT_h2gP0
+
+the three video are tutorial on how to make sound and voice reactive LED’s using Arduino. Although this was made for thee Arduino, I could adapt it work with the micro bit.  These video helped me get an idea on how mine should work on the micro bit. The videos also helped me get an idea of the sound sensor and how to works.
+
+
+https://invent.sparkfun.com/cwists/preview/2054x
+
+This is a project someone has done that incorporates LED’s into a cape using a micro bit. What I have taken from this article is how to incorporate the LED’s. They used Lilly Pad LED’s with conductive thread. 
+
+https://www.youtube.com/watch?v=FxvBVvBWh4I
+
+This video goes into detail on different sew able LED’s and wearable technology in general. What I took from this video was that Lilly Pad LED’s work really well for wearable LED’s. They are waterproof but can be a bit expensive. 
+
+https://www.wearabletutorials.com/making_leds_sewable_for_wearables_conductive_thread/
+ 
+This article is about Making LED Lights Sewable for Wearables and Conductive Thread This article. This article will help me make the LED’s I have sewable into the jacket.
+
+
+https://osoyoo.com/2018/09/17/micro-bit-lesson-using-the-sound-detection-sensor/
+
+This website showed me how to connect the Sound sensor to my micro bit and get it working it also showed a simple code I can use to test if it’s working.
+
 
 ### *Brief resource name/description* ###
 
@@ -56,7 +89,7 @@ This project is a Iconic Levi’s Trucker jacket merges style with innovative Ja
 ## Conceptual progress ##
 
 ### Design intent ###
-*Include your design intent here. It should be about a 10 word phrase/sentence.*
+The Design intent for my project is to create a jacket with a design that has a design on the back pannel that incoperates LED's the resound to sould.
 
 ### Design concept 1 ###
 *Outline three design concepts, each developed to a point where you anticipate it would be feasible to complete by the end of the course. Each should have a summary of the idea, a rough sketch of what it might be like, and any other notes you created while exploring the idea.* 
