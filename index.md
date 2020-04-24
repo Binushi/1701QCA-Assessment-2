@@ -125,8 +125,8 @@ I found it difficult to find any micro bit project with a sound sensor all I cou
 
 ![Image](IB.jpg)
 I bought a sound sensor it was hard to find. I played with it a bit, I didn’t get it working but I know what I need to do to fix it.
-![Image](1.HEIC)
-![Image](2.HEIC)
+![Image]()
+
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
