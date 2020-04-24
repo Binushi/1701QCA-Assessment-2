@@ -108,13 +108,24 @@ My final design concept is to create a jacket that has a design on the back pane
 
 ## Physical experimentation documentation ##
 
-*In this section, show your progress including whichever of the following are appropriate for your project at this point.
-a.	Technical development. Could be code screenshots, pictures of electronics and hardware testing, video of tests. 
-b.	Fabrication. Physical models, rough prototypes, sketches, diagrams of form, material considerations, mood boards, etc.
-Ensure you include comments about the choices you've made along the way.*
+Week 5
+This week we set up groups and discussions boards. I put my area of interest as music, particularly Hip Hop and R&B. I also responded to other people’s areas of interest. 
+Week 6
+In the Discussion board I up my area of interest as music. I got a suggestion form Cheuk Fai Mak it was “maybe you can make some sick beat that involves people interaction like everyone can modify it and come up with a really good one =D”. I really like this idea I am going to try make a soundboard that allows people to record sound and turn it into a beat. 
+Easter Break
+I did some research into making a soundboard with the micro bit. I would need to find a speaker to use. In my previous project used earphone speakers but you can’t hear it unless you put it in your ears. I want to incorporate and eternal speaker. I also need to find a way to record the sound. I can use buttons to create the soundboard and I can but everything in a box made of plywood to make it look presentable. I had another idea; it was to make a jacket with lights in the back that react to sound or a hat that moves toward sound but in not sure how that would work. 
+Week 7
+During tutorial
+During the tutorial I talked to Ged about my ideas. He pointed out it need to be something unique so I could have an interesting way of interreacting with the sound bored like physically moving it to get different sounds. I am now thing if doing the jacket idea. I need to do some research into sewable LED lights. I also need to look into sound sensors. 
+After Tutorial 
+I did some more research into sewable LED lights I found a brand called Lilly Pad LED’s that are really good. They are easy to use and are waterproof the only issue is that they are expensive, and I won’t be able to get them because of the corona virus it will take too long to get here. I did some more research and found that you can bent the normal LED’s to sew them. I need to buy some more LED’s and find connective thread. 
 
-*You will probably have a range of images and screenshots. Any test videos should be uploaded to YouTube or other publicly accessible site and a link provided here.*
+I found it difficult to find any micro bit project with a sound sensor all I could find was Arduino. I emailed Ged to see if I could change the project from a sound sensor to a light sensor. The main issue with this was that it doesn’t fit with my area of interest. I sent some Arduino project I wanted to create on the micro bit and he sent be some links. After looking at them I had an idea of what I had to do. I sketched out a design of what I wanted it to look like and how it would work.
+![Image](missingimage.png)
 
+![Image](missingimage.png)
+I bought a sound sensor it was hard to find. I played with it a bit, I didn’t get it working but I know what I need to do to fix it.
+![Image](missingimage.png)
 ![Image](missingimage.png)
 
 ## Design process discussion ##
