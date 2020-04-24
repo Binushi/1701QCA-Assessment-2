@@ -121,12 +121,12 @@ After Tutorial
 I did some more research into sewable LED lights I found a brand called Lilly Pad LED’s that are really good. They are easy to use and are waterproof the only issue is that they are expensive, and I won’t be able to get them because of the corona virus it will take too long to get here. I did some more research and found that you can bent the normal LED’s to sew them. I need to buy some more LED’s and find connective thread. 
 
 I found it difficult to find any micro bit project with a sound sensor all I could find was Arduino. I emailed Ged to see if I could change the project from a sound sensor to a light sensor. The main issue with this was that it doesn’t fit with my area of interest. I sent some Arduino project I wanted to create on the micro bit and he sent be some links. After looking at them I had an idea of what I had to do. I sketched out a design of what I wanted it to look like and how it would work.
-![Image](missingimage.png)
+![Image](OB.jpg)
 
-![Image](missingimage.png)
+![Image](IB.jpg)
 I bought a sound sensor it was hard to find. I played with it a bit, I didn’t get it working but I know what I need to do to fix it.
-![Image](missingimage.png)
-![Image](missingimage.png)
+![Image](1.HEIC)
+![Image](2.HEIC)
 
 ## Design process discussion ##
 *Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
