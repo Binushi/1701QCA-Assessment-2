@@ -22,7 +22,7 @@ This is Zendaya’s MET Gala look. It is a Cinderella dress designed by Law Roac
 ### Related project 2 ###
 Audiolux
 
-http://audioluxdevices.webflow.io/how-it-works
+[Audiolux](http://audioluxdevices.webflow.io/how-it-works)
 
 ![Image](RP2.jpg)
 
@@ -31,7 +31,7 @@ This project is a device that allows users to translate sound to light! This plu
 ### Related project 3 ###
 Printer Farm Status Jacket 
 
-https://www.instructables.com/id/3D-Printer-Status-Jacket/
+[instructables] (https://www.instructables.com/id/3D-Printer-Status-Jacket/)
 
 ![Image](RP3.jpg)
 
@@ -40,44 +40,44 @@ This project is a fun way to display the status of all of your machines, to ensu
 ### Related project 4 ###
 Trucker Jacket Levi’s 
 
-https://atap.google.com/jacquard/collaborations/levi-trucker/
+[jacquard] (https://atap.google.com/jacquard/collaborations/levi-trucker/)
 
 ![Image](RP4.jpeg)
 
 This project is a Iconic Levi’s Trucker jacket merges style with innovative Jacquard technology. Answer calls, play music, and take photos right from your sleeve. This is similar to my project as it is a jacket with technology embedded in it.
 
 ## Other research ##
-https://mashable.com/2016/02/11/led-clothes/
+[mashable] (https://mashable.com/2016/02/11/led-clothes/)
 
 This source is an article on the future of LED clothes. The article talks about different designers that are incorporating LED’s into their clothing, and briefly talks about the process of make the clothing and how to works. This gave me some ideas on how I could do my project. For example, the article says many designers use silhouettes popular in street like oversized and minimal this not only helps the aesthetic value of the project it will also help to hide the Micro Bit. The article also reviews the clothing and highlights some flaws in the design. This shows me what to avoid doing. 
 
 
-https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/fabric-display4.htm
+[howstuffworks] (https://electronics.howstuffworks.com/gadgets/high-tech-gadgets/fabric-display4.htm)
 
 This article is similar to the previous one. This article goes more in-depth with the process of creating the clothing. This gave me inspiration on how I could do that. 
 
 
-https://www.youtube.com/watch?v=6ZjLd2ifxhY
-https://www.youtube.com/watch?v=tPxFe_rETHA
-https://www.youtube.com/watch?v=guZJT_h2gP0
+[YouTube](https://www.youtube.com/watch?v=6ZjLd2ifxhY)
+[YouTube](https://www.youtube.com/watch?v=tPxFe_rETHA)
+[YouTube](https://www.youtube.com/watch?v=guZJT_h2gP0)
 
 the three video are tutorial on how to make sound and voice reactive LED’s using Arduino. Although this was made for thee Arduino, I could adapt it work with the micro bit.  These video helped me get an idea on how mine should work on the micro bit. The videos also helped me get an idea of the sound sensor and how to works.
 
 
-https://invent.sparkfun.com/cwists/preview/2054x
+[sparkfun] (https://invent.sparkfun.com/cwists/preview/2054x)
 
 This is a project someone has done that incorporates LED’s into a cape using a micro bit. What I have taken from this article is how to incorporate the LED’s. They used Lilly Pad LED’s with conductive thread. 
 
-https://www.youtube.com/watch?v=FxvBVvBWh4I
+[YouTube] (https://www.youtube.com/watch?v=FxvBVvBWh4I)
 
 This video goes into detail on different sew able LED’s and wearable technology in general. What I took from this video was that Lilly Pad LED’s work really well for wearable LED’s. They are waterproof but can be a bit expensive. 
 
-https://www.wearabletutorials.com/making_leds_sewable_for_wearables_conductive_thread/
+[wearabletutorials] (https://www.wearabletutorials.com/making_leds_sewable_for_wearables_conductive_thread/)
  
 This article is about Making LED Lights Sewable for Wearables and Conductive Thread This article. This article will help me make the LED’s I have sewable into the jacket.
 
 
-https://osoyoo.com/2018/09/17/micro-bit-lesson-using-the-sound-detection-sensor/
+[osoyoo] (https://osoyoo.com/2018/09/17/micro-bit-lesson-using-the-sound-detection-sensor/)
 
 This website showed me how to connect the Sound sensor to my micro bit and get it working it also showed a simple code I can use to test if it’s working.
 
