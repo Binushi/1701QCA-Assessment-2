@@ -129,7 +129,7 @@ I bought a sound sensor it was hard to find. I played with it a bit, I didn’t 
 
 
 ## Design process discussion ##
-*Discuss your process in getting to this point, particularly with reference to aspects of the Double Diamond design methodology or other relevant design process.*
+![Image](FC.jpg)
 
 ## Next steps ##
 *Write a list or provide other information about your plan to move the project forward to be ready to present by video and documentation in week 12 of the course.*
