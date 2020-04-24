@@ -125,7 +125,7 @@ I found it difficult to find any micro bit project with a sound sensor all I cou
 
 ![Image](IB.jpg)
 I bought a sound sensor it was hard to find. I played with it a bit, I didn’t get it working but I know what I need to do to fix it.
-![Image]()
+![Image](1.jpg)
 
 
 ## Design process discussion ##
